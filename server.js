@@ -22,7 +22,7 @@ app.get('/', function(req, res){
 });
 
 app.get('/api/blogs', function(req, res){
-  res.json({
+  res.jsonp({
     meta: { 
       name: 'seattle blogs',
       count: app.locals.blogs.length
