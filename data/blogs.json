@@ -1,0 +1,533 @@
+[{
+    "name": "Alki News/Alki Community Council",
+    "url": "http://alkinews.wordpress.com/",
+    "feed": "http://alkinews.wordpress.com/feed/",
+    "neighborhood": "Alki",
+    "district": "Southwest",
+    "category": "news"
+}, {
+    "name": "At Large in Ballard",
+    "url": "http://blog.seattlepi.com/ballard/",
+    "feed": "http://blog.seattlepi.com/ballard/feed/",
+    "neighborhood": "Ballard",
+    "district": "Ballard",
+    "category": "news"
+}, {
+    "name": "Beach Drive Blog",
+    "url": "http://www.mortgageporter.com/beach_drive/",
+    "feed": "http://beachdriveblog.com/feed",
+    "neighborhood": "Alki",
+    "district": "Southwest",
+    "category": "news"
+}, {
+    "name": "Beacon Hill Blog",
+    "url": "http://beaconhill.seattle.wa.us/",
+    "feed": "http://beaconhill.seattle.wa.us/feed/",
+    "neighborhood": "Beacon Hill",
+    "district": "Greater Duwamish",
+    "category": "news"
+}, {
+    "name": "Broadview Community Council",
+    "url": "http://www.broadviewseattle.org/",
+    "feed": "http://www.broadviewseattle.org/feed/",
+    "neighborhood": "Broadview",
+    "district": "Northwest",
+    "category": "community council"
+}, {
+    "name": "Central District News",
+    "url": "http://www.centraldistrictnews.com/",
+    "feed": "http://www.centraldistrictnews.com/feed/",
+    "neighborhood": "Central District",
+    "district": "Central",
+    "category": "news"
+}, {
+    "name": "CHS Capitol Hill Seattle Blog",
+    "url": "http://www.capitolhillseattle.com/",
+    "feed": "http://www.capitolhillseattle.com/feed/",
+    "neighborhood": "Capitol Hill",
+    "district": "East",
+    "category": "news"
+}, {
+    "name": "East Ballard Community Association Blog",
+    "url": "http://eastballard.wordpress.com/",
+    "feed": "http://eastballard.wordpress.com/feed/",
+    "neighborhood": "Ballard",
+    "district": "Ballard",
+    "category": "community association"
+}, {
+    "name": "Eastlake Ave.",
+    "url": "http://eastlakeave.neighborlogs.com/",
+    "feed": "",
+    "neighborhood": "Eastlake",
+    "district": "Lake Union",
+    "category": "news"
+}, {
+    "name": "Fremont Universe",
+    "url": "http://www.fremontuniverse.com/",
+    "feed": "http://www.fremontuniverse.com/feed/",
+    "neighborhood": "Fremont",
+    "district": "Lake Union",
+    "category": "news"
+}, {
+    "name": "Genesee-Schmitz Neighborhood Council",
+    "url": "http://genesee-schmitz.org/",
+    "feed": "http://genesee-schmitz.org/feed/",
+    "neighborhood": "Genesee-Schmitz",
+    "district": "Southwest",
+    "category": "neighborhood council"
+}, {
+    "name": "Highland Park Improvement Club",
+    "url": "http://www.hpic1919.org/",
+    "feed": "http://www.hpic1919.org/feed/",
+    "neighborhood": "Highland Park",
+    "district": "Delridge",
+    "category": "neighborhood group"
+}, {
+    "name": "KOMO Communities - Ballard",
+    "url": "http://ballard.komonews.com/",
+    "feed": "http://www.komonews.com/communities/ballard/index.rss",
+    "neighborhood": "Ballard",
+    "district": "Northwest",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Beacon Hill",
+    "url": "http://beaconhill.komonews.com",
+    "feed": "http://www.komonews.com/communities/southseattle/index.rss",
+    "neighborhood": "Beacon Hill",
+    "district": "Greater Duwamish",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Captol Hill",
+    "url": "http://capitolhill.komonews.com",
+    "feed": "http://www.komonews.com/communities/capitolhill/index.rss",
+    "neighborhood": "Capitol Hill",
+    "district": "East",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Central District",
+    "url": "http://centraldistrict.komonews.com",
+    "feed": "http://centraldistrict.komonews.com/index.rss",
+    "neighborhood": "Central District",
+    "district": "East",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Columbia City",
+    "url": "http://columbiacity.komonews.com",
+    "feed": "http://columbiacity.komonews.com/index.rss",
+    "neighborhood": "Columbia City",
+    "district": "Southeast",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Downtown",
+    "url": "http://downtown.komonews.com",
+    "feed": "http://downtown.komonews.com/index.rss",
+    "neighborhood": "Downtown",
+    "district": "Downtown",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Fremont",
+    "url": "http://fremont.komonews.com",
+    "feed": "http://fremont.komonews.com/index.rss",
+    "neighborhood": "Fremont",
+    "district": "Lake Union",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Georgetown",
+    "url": "http://georgetown.komonews.com",
+    "feed": "http://georgetown.komonews.com/index.rss",
+    "neighborhood": "Georgetown",
+    "district": "Greater Duwamish",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Green Lake",
+    "url": "http://greenlake.komonews.com",
+    "feed": "http://greenlake.komonews.com/index.rss",
+    "neighborhood": "Green Lake",
+    "district": "Northwest",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Greenwood-Phinney",
+    "url": "http://greenwood-phinney.komonews.com",
+    "feed": "http://greenwood-phinney.komonews.com/index.rss",
+    "neighborhood": "Greenwood-Phinney",
+    "district": "Northwest",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Lake City",
+    "url": "http://lakecity.komonews.com",
+    "feed": "http://lakecity.komonews.com/index.rss",
+    "neighborhood": "Lake City",
+    "district": "North",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Madison Park",
+    "url": "http://madisonpark.komonews.com",
+    "feed": "http://madisonpark.komonews.com/index.rss",
+    "neighborhood": "Madison Park",
+    "district": "East",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Magnolia",
+    "url": "http://magnolia.komonews.com",
+    "feed": "http://magnolia.komonews.com/index.rss",
+    "neighborhood": "Magnolia",
+    "district": "Magnolia/Queen Anne",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - North Seattle",
+    "url": "http://northseattle.komonews.com",
+    "feed": "http://northseattle.komonews.com/index.rss",
+    "neighborhood": "North Seattle",
+    "district": "North",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Queen Anne",
+    "url": "http://queenanne.komonews.com",
+    "feed": "http://queenanne.komonews.com/index.rss",
+    "neighborhood": "Queen Anne",
+    "district": "Magnolia/Queen Anne",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Rainier Valley",
+    "url": "http://rainiervalley.komonews.com",
+    "feed": "http://rainiervalley.komonews.com/index.rss",
+    "neighborhood": "Rainier Valley",
+    "district": "Southeast",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - South Lake Union",
+    "url": "http://southlakeunion.komonews.com",
+    "feed": "http://southlakeunion.komonews.com/index.rss",
+    "neighborhood": "South Lake Union",
+    "district": "Lake Union",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - U-District",
+    "url": "http://udistrict.komonews.com",
+    "feed": "http://udistrict.komonews.com/index.rss",
+    "neighborhood": "University District",
+    "district": "Northeast",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - View Ridge",
+    "url": "http://viewridge.komonews.com",
+    "feed": "http://viewridge.komonews.com/index.rss",
+    "neighborhood": "View Ridge",
+    "district": "Northeast",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - Wallingford",
+    "url": "http://wallingford.komonews.com",
+    "feed": "http://wallingford.komonews.com/index.rss",
+    "neighborhood": "Wallingford",
+    "district": "Northwest",
+    "category": "news"
+}, {
+    "name": "KOMO Communities - West Seattle",
+    "url": "http://westseattle.komonews.com",
+    "feed": "http://westseattle.komonews.com/index.rss",
+    "neighborhood": "West Seattle",
+    "district": "Southwest",
+    "category": "news"
+}, {
+    "name": "Madison Park Blogger",
+    "url": "http://madisonparkblogger.blogspot.com/",
+    "feed": "http://madisonparkblogger.blogspot.com/feeds/posts/default",
+    "neighborhood": "Madison Park",
+    "district": "East",
+    "category": "news"
+}, {
+    "name": "Magnolia Voice",
+    "url": "http://www.magnoliavoice.com/",
+    "feed": "http://www.magnoliavoice.com/feed/",
+    "neighborhood": "Magnolia",
+    "district": "Magnolia/Queen Anne",
+    "category": "news"
+}, {
+    "name": "Maple Leaf Life",
+    "url": "http://www.mapleleaflife.com/",
+    "feed": "http://www.mapleleaflife.com/feed/",
+    "neighborhood": "Maple Leaf",
+    "district": "North",
+    "category": "news"
+}, {
+    "name": "MyBallard",
+    "url": "http://www.myballard.com/",
+    "feed": "http://www.myballard.com/feed/",
+    "neighborhood": "Ballard",
+    "district": "Ballard",
+    "category": "news"
+}, {
+    "name": "MyWallingford",
+    "url": "http://mywallingford.com",
+    "feed": "http://www.mywallingford.com/feed/",
+    "neighborhood": "Wallingford",
+    "district": "Northwest",
+    "category": "news"
+}, {
+    "name": "New Rainier Vista",
+    "url": "http://newrainiervista.com/public/about/",
+    "feed": "http://newrainiervista.com/public/feed",
+    "neighborhood": "Rainier Beach",
+    "district": "Southeast",
+    "category": "news"
+}, {
+    "name": "Phinney Neighborhood Association",
+    "url": "http://phinneycenter.blogspot.com/",
+    "feed": "http://phinneycenter.blogspot.com/feeds/posts/default",
+    "neighborhood": "Phinney Ridge",
+    "district": "Northwest",
+    "category": "association news and events"
+}, {
+    "name": "PhinneyWood",
+    "url": "http://www.phinneywood.com/",
+    "feed": "http://www.phinneywood.com/feed/",
+    "neighborhood": "Phinney Ridge",
+    "district": "Northwest",
+    "category": "news"
+}, {
+    "name": "Pinehurst Seattle",
+    "url": "http://pinehurstseattle.org",
+    "feed": "http://feeds.feedburner.com/PinehurstSeattle?format=xml",
+    "neighborhood": "Pinehurst",
+    "district": "North",
+    "category": "news"
+}, {
+    "name": "Queen Anne View",
+    "url": "http://www.queenanneview.com/",
+    "feed": "http://www.queenanneview.com/feed/",
+    "neighborhood": "Queen Anne",
+    "district": "Magnolia/Queen Anne",
+    "category": "news"
+}, {
+    "name": "Rainier Beach Community Empowerment Coalition",
+    "url": "http://www.rbcoalition.org/",
+    "feed": "http://www.rbcoalition.org/feed/",
+    "neighborhood": "Rainier Beach",
+    "district": "Southeast",
+    "category": "news"
+}, {
+    "name": "Rainier Valley Post",
+    "url": "http://www.rainiervalleypost.com/",
+    "feed": "http://rainiervalleypost.com/feed/",
+    "neighborhood": "Rainier Valley",
+    "district": "Southeast",
+    "category": "news"
+}, {
+    "name": "Ravenna Blog",
+    "url": "http://www.ravennablog.com/",
+    "feed": "http://www.ravennablog.com/feed/",
+    "neighborhood": "Ravenna",
+    "district": "Northeast",
+    "category": "news"
+}, {
+    "name": "Southeast District Council",
+    "url": "http://southeastseattle.org/",
+    "feed": "http://southeastseattle.org/feed/",
+    "neighborhood": "Rainier Valley",
+    "district": "Columbia City",
+    "category": "Hillman City"
+}, {
+    "name": "Southend Seattle",
+    "url": "http://southendseattle.com",
+    "feed": "http://www.southendseattle.com/?feed=rss2",
+    "neighborhood": "Beacon Hill",
+    "district": "Mount Baker",
+    "category": "Genesee"
+}, {
+    "name": "Sustainable West Seattle",
+    "url": "http://www.sustainablewestseattle.org/",
+    "feed": "http://www.sustainablewestseattle.org/feed/",
+    "neighborhood": "West Seattle",
+    "district": "Southwest",
+    "category": "Delridge"
+}, {
+    "name": "The Laurelhurst Blog",
+    "url": "http://thelaurelhurstblog.blogspot.com/",
+    "feed": "http://thelaurelhurstblog.blogspot.com/feeds/posts/default",
+    "neighborhood": "Laurelhurst",
+    "district": "Northeast",
+    "category": "news"
+}, {
+    "name": "U District Daily",
+    "url": "http://www.udistrictdaily.com/",
+    "feed": "http://www.udistrictdaily.com/feed/",
+    "neighborhood": "University District",
+    "district": "Northeast",
+    "category": "news"
+}, {
+    "name": "Wallyhood - Wallingford Seattle Blog",
+    "url": "http://www.wallyhood.org/",
+    "feed": "http://feeds2.feedburner.com/Wallyhood?format=xml",
+    "neighborhood": "Wallingford",
+    "district": "Northwest",
+    "category": "news"
+}, {
+    "name": "Wedgwood View",
+    "url": "http://www.wedgwoodview.com/",
+    "feed": "http://www.wedgwoodview.com/feed/",
+    "neighborhood": "Wedgwood",
+    "district": "Northeast",
+    "category": "news"
+}, {
+    "name": "West Seattle Blockwatch Captains' Network",
+    "url": "http://wsblockwatchnet.wordpress.com",
+    "feed": "http://wsblockwatchnet.wordpress.com/feed/",
+    "neighborhood": "West Seattle",
+    "district": "Southwest",
+    "category": "Delridge"
+}, {
+    "name": "West Seattle Blog",
+    "url": "http://westseattleblog.com/",
+    "feed": "http://westseattleblog.com/feed/",
+    "neighborhood": "West Seattle",
+    "district": "Southwest",
+    "category": "Delridge"
+}, {
+    "name": "White Center Now",
+    "url": "http://whitecenternow.com/",
+    "feed": "http://whitecenternow.com/feed/",
+    "neighborhood": "White Center",
+    "district": "Delridge",
+    "category": "news"
+}, {
+    "name": "the south park news",
+    "url": "http://thesouthparknews.com/",
+    "feed": "http://thesouthparknews.com/feed/",
+    "neighborhood": "South Park",
+    "district": "Greater Duwamish",
+    "category": "neighborhood info"
+}, {
+    "name": "Columbia City",
+    "url": "Seattle",
+    "feed": "http://www.columbiacityseattle.com/",
+    "neighborhood": "",
+    "district": "Columbia City",
+    "category": "Southeast"
+}, {
+    "name": "Jackson Commons",
+    "url": "http://www.jacksoncommons.com",
+    "feed": "http://jacksoncommons.com/feed/",
+    "neighborhood": "Central District",
+    "district": "Central",
+    "category": "events"
+}, {
+    "name": "Lake City Live",
+    "url": "http://lakecitylive.net",
+    "feed": "http://lakecitylive.net/feed/",
+    "neighborhood": "Lake City",
+    "district": "Northeast",
+    "category": "events"
+}, {
+    "name": "West Seattle Herald",
+    "url": "http://www.westseattleherald.com/",
+    "feed": "http://www.westseattleherald.com/feed",
+    "neighborhood": "West Seattle",
+    "district": "Southwest",
+    "category": "Delridge"
+}, {
+    "name": "White Center Community Development Association",
+    "url": "http://www.wccda.org/home",
+    "feed": "http://www.wccda.org/home/feed",
+    "neighborhood": "White Center",
+    "district": "Delridge",
+    "category": "nonprofit"
+}, {
+    "name": "Your Capitol Hill",
+    "url": "http://www.yourcapitolhill.com/",
+    "feed": "http://www.yourcapitolhill.com/rss",
+    "neighborhood": "Capitol Hill",
+    "district": "East",
+    "category": "dining"
+}, {
+    "name": "Parks of Seattle",
+    "url": "http://parksofseattle.tumblr.com/",
+    "feed": "http://parksofseattle.tumblr.com/rss",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "Fuck Yeah Seattle",
+    "url": "http://fuckyeahseattle.tumblr.com/",
+    "feed": "http://fuckyeahseattle.tumblr.com/rss",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "Stranger's SLOG",
+    "url": "http://slog.thestranger.com/blogs/slog/",
+    "feed": "http://slog.thestranger.com/seattle/Rss.xml?id=slog",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "Seattle Transit Blog",
+    "url": "http://seattletransitblog.com/",
+    "feed": "http://feeds.feedburner.com/seattletransitblog/rss?format=xml",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "montlaker.com",
+    "url": "http://montlaker.com",
+    "feed": "http://montlaker.com/feed/",
+    "neighborhood": "Montlake",
+    "district": "",
+    "category": ""
+}, {
+    "name": "exploreseattle.tumblr.com",
+    "url": "http://exploreseattle.tumblr.com",
+    "feed": "http://exploreseattle.tumblr.com/rss",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "whenyouliveinseattle.tumblr.com",
+    "url": "http://whenyouliveinseattle.tumblr.com",
+    "feed": "http://whenyouliveinseattle.tumblr.com/rss",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "seattleoddity.tumblr.com",
+    "url": "http://seattleoddity.tumblr.com",
+    "feed": "http://seattleoddity.tumblr.com/rss",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "Seattle By Sarah",
+    "url": "http://seattlebysarah.com/",
+    "feed": "http://seattlebysarah.com/feed/",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "Seattle Globalist",
+    "url": "http://www.seattleglobalist.com/",
+    "feed": "http://www.seattleglobalist.com/feed",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "Seattlish",
+    "url": "http://seattlish.com/",
+    "feed": "http://seattlish.com/rss",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "The Seattle Coffee Project",
+    "url": "http://theseattlecoffeeproject.wordpress.com/",
+    "feed": "http://theseattlecoffeeproject.wordpress.com/feed/",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "seattle.io",
+    "url": "http://seattle.io",
+    "feed": "http://seattle.io/rss.xml",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}]

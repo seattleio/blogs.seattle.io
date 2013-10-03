@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>blogs – feeds.seattle.io</title>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic,700,700italic' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="public/bootstrap.css">
+  <link rel="stylesheet" href="public/style.css">
+</head>
+<body>
+<main role="main">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 description">
+        <h1 id="logo">
+          <span>Seattle Blogs</span>
+        </h1>
+        <p>A directory of Seattle-focused blogs. <a href="https://docs.google.com/forms/d/1I39npo2ff0j2uwsvbpFaC-i7LB8gGf54yDDi6LsPVic/viewform" target="_blank">Submit new blogs.</a></p>
+        <p>A json feed is available for the blogs list:</p>
+        <p><b>Blogs:</b> <a href="/api/blogs">/api/blogs</a></p>
+        <p><b>Next steps:</b></p>
+        <ul>
+          <li>Start aggregating posts from the blogs.</li>
+          <li>Allow filtering by neighborhood or topic.</li>
+          <li>Integrate with other resources, like <a href="http://seattlewiki.net" target="_blank">SeattleWiki</a>.</li>
+        </ul>
+        <p><b>Sources:</b> <a href="https://data.seattle.gov/Community/Seattle-Communities-Online-Inventory/5ytf-wban" target="_blank">Seattle Online Communities Inventory dataset on data.seattle.gov</a> and the internet.
+      </div>
+      <div class="col-sm-5 col-sm-offset-4">
+        <div id="blogs">
+          <h1>All the blogs:</h1>
+          <% blogs.forEach(function(blog){ %>
+            <div class="blog">
+              <a href="<%= blog.url %>" target="_blank">
+                <h3><%= blog.name %></h3>
+                <p><%= blog.neighborhood %></p>
+              </a>
+            </div>
+          <% }); %>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="public/app.js"></script>
+</body>
+</html>

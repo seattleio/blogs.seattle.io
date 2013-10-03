@@ -1,0 +1,20 @@
+body {
+  font-weight: 300;
+  font-family: Roboto, 'Helvetica Nueue', Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 100;
+}
+
+.description {
+  color: #999;
+}
+
+@media screen and (min-width: 768px){
+  .description {
+    position: fixed;
+  }
+}

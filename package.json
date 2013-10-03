@@ -1,0 +1,19 @@
+{
+  "name": "seattle blogs",
+  "version": "0.0.0",
+  "description": "an aggregator of seattle news for use in other apps.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "~0.2.8",
+    "request": "~2.27.0",
+    "express": "~3.4.0",
+    "ejs": "~0.8.4"
+  },
+  "devDependencies": {
+  }
+}
