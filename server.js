@@ -47,11 +47,15 @@ app.get('/api/blogs', function(req, res){
 });
 
 app.get('/api/blog/:slug', function(req, res){
-  
-})
 
-/*
-* todo: track posts of all the blogs.
-*/
+});
 
 app.listen(process.env.PORT || 5000);
+
+function findBlog(slug, callback){
+  app.locals.blogs.forEach(function(blog){
+    if (slug === blog.slug){
+      callback(blog);
+    }
+  });
+}
