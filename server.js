@@ -17,6 +17,12 @@ app.use(function loadBlogs(req, res, next){
   });
 });
 
+app.locals({
+  name: 'Seattle Blogs',
+  description: 'A directory of Seattle-focused blogs.',
+  url: 'http://seattle-blogs.herokuapp.com'
+})
+
 app.get('/', function(req, res){
   res.render('index.ejs', { blogs: app.locals.blogs });
 });
@@ -24,7 +30,9 @@ app.get('/', function(req, res){
 app.get('/api/blogs', function(req, res){
   res.jsonp({
     meta: { 
-      name: 'seattle blogs',
+      name: app.locals.name,
+      description: app.locals.description,
+      url: app.locals.url,
       count: app.locals.blogs.length
     },
     blogs: app.locals.blogs 
