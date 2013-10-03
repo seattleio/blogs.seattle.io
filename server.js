@@ -46,6 +46,10 @@ app.get('/api/blogs', function(req, res){
   });
 });
 
+app.get('/api/blog/:slug', function(req, res){
+  
+})
+
 /*
 * todo: track posts of all the blogs.
 */
