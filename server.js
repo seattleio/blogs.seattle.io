@@ -47,7 +47,9 @@ app.get('/api/blogs', function(req, res){
 });
 
 app.get('/api/blog/:slug', function(req, res){
-
+  findBlog(req.params.slug, function(blog){
+    res.jsonp(blog);
+  });
 });
 
 app.listen(process.env.PORT || 5000);
