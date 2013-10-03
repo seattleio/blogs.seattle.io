@@ -1,7 +1,9 @@
-var inspect = require('eyes').inspector();
+/* // not using these yet:
 var request = require('request');
 var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
+*/
+
 var fs = require('fs');
 var express = require('express');
 var app = express();
