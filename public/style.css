@@ -13,6 +13,19 @@ h3 {
   color: #999;
 }
 
+.blog a {
+  display: block;
+  padding: 0px 15px 5px 15px;
+  border: 1px solid #efefef;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.blog a:hover,
+.blog a:focus {
+  background-color: #efefef;  
+}
+
 @media screen and (min-width: 768px){
   .description {
     position: fixed;

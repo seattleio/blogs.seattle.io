@@ -10,4 +10,6 @@ Blogs: http://seattle-blogs.herokuapp.com/api/blogs
 - Start aggregating posts from the blogs.
 - Allow filtering by neighborhood or topic.
 - Integrate with other resources, like SeattleWiki.
-- Sources: Seattle Online Communities Inventory dataset on data.seattle.gov and the internet.
+
+## Sources:
+Seattle Online Communities Inventory dataset on data.seattle.gov and the internet.
