@@ -33,4 +33,4 @@ app.get('/api/blogs', function(req, res){
 * todo: track posts of all the blogs.
 */
 
-app.listen(3000);
+app.listen(process.env.PORT || 5000);
