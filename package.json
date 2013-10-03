@@ -1,5 +1,5 @@
 {
-  "name": "seattle blogs",
+  "name": "seattle-blogs",
   "version": "0.0.0",
   "description": "an aggregator of seattle news for use in other apps.",
   "main": "server.js",
