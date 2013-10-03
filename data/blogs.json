@@ -63,14 +63,6 @@
     "district": "Ballard",
     "category": "community association"
 }, {
-    "name": "Eastlake Ave.",
-    "slug": "eastlake-ave",
-    "url": "http://eastlakeave.neighborlogs.com/",
-    "feed": "",
-    "neighborhood": "Eastlake",
-    "district": "Lake Union",
-    "category": "news"
-}, {
     "name": "Fremont Universe",
     "slug": "fremont-universe",
     "url": "http://www.fremontuniverse.com/",
