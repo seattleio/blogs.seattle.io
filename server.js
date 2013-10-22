@@ -2,7 +2,6 @@ var request = require('request');
 var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
 
-
 var fs = require('fs');
 var express = require('express');
 var app = express();
@@ -53,8 +52,10 @@ app.get('/api/blog/:slug', function(req, res){
 
 app.get('/api/blog/:slug/posts', function(req, res){
   findBlog(req.params.slug, function(blog){
-    request.get(blog.feed, function(error, feedRequest, feedResponse){
+    request.get(blog.feed, function(feedError, feedRequest, feedResponse){
       parser.parseString(feedResponse, function(parserError, parserResponse){
+        if (parserError) throw parserError;
+
         blog.posts = parserResponse;
         res.jsonp(blog);
       });
