@@ -1,8 +1,7 @@
-/* // not using these yet:
 var request = require('request');
 var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
-*/
+
 
 var fs = require('fs');
 var express = require('express');
@@ -49,6 +48,17 @@ app.get('/api/blogs', function(req, res){
 app.get('/api/blog/:slug', function(req, res){
   findBlog(req.params.slug, function(blog){
     res.jsonp(blog);
+  });
+});
+
+app.get('/api/blog/:slug/posts', function(req, res){
+  findBlog(req.params.slug, function(blog){
+    request.get(blog.feed, function(error, feedRequest, feedResponse){
+      parser.parseString(feedResponse, function(parserError, parserResponse){
+        blog.posts = parserResponse;
+        res.jsonp(blog);
+      });
+    });
   });
 });
 
