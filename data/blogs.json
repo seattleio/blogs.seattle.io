@@ -279,14 +279,6 @@
     "district": "Southeast",
     "category": "news"
 }, {
-    "name": "Phinney Neighborhood Association",
-    "slug": "phinney-neighborhood-association",
-    "url": "http://phinneycenter.blogspot.com/",
-    "feed": "http://phinneycenter.blogspot.com/feeds/posts/default",
-    "neighborhood": "Phinney Ridge",
-    "district": "Northwest",
-    "category": "association news and events"
-}, {
     "name": "PhinneyWood",
     "slug": "phinneywood",
     "url": "http://www.phinneywood.com/",
@@ -422,14 +414,6 @@
     "neighborhood": "South Park",
     "district": "Greater Duwamish",
     "category": "neighborhood info"
-}, {
-    "name": "Columbia City",
-    "slug": "columbia-city",
-    "url": "Seattle",
-    "feed": "http://www.columbiacityseattle.com/",
-    "neighborhood": "",
-    "district": "Columbia City",
-    "category": "Southeast"
 }, {
     "name": "Jackson Commons",
     "slug": "jackson-commons",
