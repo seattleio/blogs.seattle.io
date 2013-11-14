@@ -52,13 +52,8 @@ app.get('/api/blog/:slug', function(req, res){
 
 app.get('/api/blog/:slug/posts', function(req, res){
   findBlog(req.params.slug, function(blog){
-    request.get(blog.feed, function(feedError, feedRequest, feedResponse){
-      parser.parseString(feedResponse, function(parserError, parserResponse){
-        if (parserError) throw parserError;
-
-        blog.posts = parserResponse;
-        res.jsonp(blog);
-      });
+    parsePosts(blog, function(results){
+      res.jsonp(results);
     });
   });
 });
@@ -70,5 +65,16 @@ function findBlog(slug, callback){
     if (slug === blog.slug){
       callback(blog);
     }
+  });
+}
+
+function parsePosts(blog, callback){
+  request.get(blog.feed, function(feedError, feedRequest, feedResponse){
+    parser.parseString(feedResponse, function(parserError, parserResponse){
+      if (parserError) throw parserError;
+
+      blog.posts = parserResponse;
+      callback(blog);
+    });
   });
 }

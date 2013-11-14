@@ -1,6 +1,8 @@
 var fs = require('fs');
 var request = require('request');
 var xml2js = require('xml2js');
+var exists = require('string-exists');
+var neighborhoods = require('./data/neighborhoods');
 
 
 fs.readFile('data/blogs.json', function(err, data){
@@ -9,7 +11,7 @@ fs.readFile('data/blogs.json', function(err, data){
   blogs.forEach(function(blog, i){
     getBlogPosts(blog, function(posts){
       blog.posts = posts;
-      console.log(blog)
+      //console.log(blog)
     });
   });
 });
@@ -61,4 +63,16 @@ function parsePosts(posts, type, callback){
   });
 
   callback(postsResponse);
+}
+
+function truncateContent(content){
+
+}
+
+function findAddress(text){
+
+}
+
+function findNeighborhood(text){
+  var matches = exists(neighborhoods, text)
 }
