@@ -39,6 +39,14 @@
     "district": "Northwest",
     "category": "community council"
 }, {
+    "name": "Catch Seattle",
+    "slug": "catch-seattle",
+    "url": "http://www.catchseattle.com/",
+    "feed": "http://www.catchseattle.com/feed/",
+    "neighborhood": "",
+    "district": "",
+    "category": "news"
+}, {
     "name": "Central District News",
     "slug": "central-district-news",
     "url": "http://www.centraldistrictnews.com/",
