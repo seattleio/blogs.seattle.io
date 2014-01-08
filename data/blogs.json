@@ -303,6 +303,14 @@
     "district": "North",
     "category": "news"
 }, {
+    "name": "Portraits of Seattle",
+    "slug": "portraits-of-seattle",
+    "url": "http://portraitsofseattle.tumblr.com",
+    "feed": "http://feeds.feedburner.com/PortraitsOfSeattle?format=xml",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
     "name": "Queen Anne View",
     "slug": "queen-anne-view",
     "url": "http://www.queenanneview.com/",
