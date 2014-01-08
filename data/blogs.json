@@ -566,4 +566,20 @@
     "neighborhood": "",
     "district": "",
     "category": ""
+}, {
+    "name": "Vanguard Seattle",
+    "slug": "vanguard-seattle",
+    "url": "http://vanguardseattle.com/",
+    "feed": "http://vanguardseattle.com/feed/",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
+}, {
+    "name": "Eating Up The Ave",
+    "slug": "vanguard-seattle",
+    "url": "http://eatinguptheave.wordpress.com/",
+    "feed": "http://eatinguptheave.wordpress.com/feed/",
+    "neighborhood": "University District",
+    "district": "",
+    "category": ""
 }]
