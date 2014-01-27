@@ -95,6 +95,14 @@
     "district": "Delridge",
     "category": "neighborhood group"
 }, {
+    "name": "It's My Darlin'",
+    "slug": "its-my-darlin",
+    "url": "http://www.itsmydarlin.com/",
+    "feed": "http://www.itsmydarlin.com/feeds/posts/default",
+    "neighborhood": "",
+    "district": "",
+    "category": "fashion"
+}, {
     "name": "KOMO Communities - Ballard",
     "slug": "komo-ballard",
     "url": "hhttp://www.komonews.com/communities/ballard/",
