@@ -95,6 +95,14 @@
     "district": "Delridge",
     "category": "neighborhood group"
 }, {
+    "name": "It's My Darlin'",
+    "slug": "its-my-darlin",
+    "url": "http://www.itsmydarlin.com/",
+    "feed": "http://www.itsmydarlin.com/feeds/posts/default",
+    "neighborhood": "",
+    "district": "",
+    "category": "fashion"
+}, {
     "name": "KOMO Communities - Ballard",
     "slug": "komo-ballard",
     "url": "hhttp://www.komonews.com/communities/ballard/",
@@ -302,6 +310,14 @@
     "neighborhood": "Pinehurst",
     "district": "North",
     "category": "news"
+}, {
+    "name": "Portraits of Seattle",
+    "slug": "portraits-of-seattle",
+    "url": "http://portraitsofseattle.tumblr.com",
+    "feed": "http://feeds.feedburner.com/PortraitsOfSeattle?format=xml",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
 }, {
     "name": "Queen Anne View",
     "slug": "queen-anne-view",
