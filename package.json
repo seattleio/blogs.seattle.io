@@ -4,6 +4,9 @@
   "description": "an aggregator of seattle news for use in other apps.",
   "main": "server.js",
   "scripts": {
+    "parse": "./bin/parse",
+    "fetch": "./bin/fetch",
+    "clean": "rm -rf db",
     "start": "node server.js"
   },
   "author": "",
@@ -13,7 +16,11 @@
     "request": "~2.27.0",
     "express": "~3.4.0",
     "ejs": "~0.8.4",
-    "string-exists": "~0.1.1"
+    "string-exists": "~0.1.1",
+    "feedparser": "~0.16.6",
+    "async": "~0.2.10",
+    "combine-streams": "0.0.4",
+    "level-json": "0.0.7"
   },
   "devDependencies": {}
 }
