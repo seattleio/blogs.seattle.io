@@ -598,4 +598,12 @@
     "neighborhood": "University District",
     "district": "",
     "category": ""
+}, {
+    "name": "Build the City",
+    "slug": "build-the-city",
+    "url": "http://buildthecity.wordpress.com/",
+    "feed": "http://buildthecity.wordpress.com/feed/",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
 }]
