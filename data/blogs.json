@@ -614,4 +614,12 @@
     "neighborhood": "",
     "district": "",
     "category": ""
+}, {
+    "name": "Madrona, Seattle",
+    "slug": "madrona-seattle",
+    "url": "http://madrona.us/",
+    "feed": "http://madrona.us/feed/",
+    "neighborhood": "Madrona",
+    "district": "",
+    "category": ""
 }]
