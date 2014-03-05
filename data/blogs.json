@@ -606,4 +606,12 @@
     "neighborhood": "",
     "district": "",
     "category": ""
+}, {
+    "name": "The Seattle Medium",
+    "slug": "the-seattle-medium",
+    "url": "http://seattlemedium.com/",
+    "feed": "http://seattlemedium.com/feed/",
+    "neighborhood": "",
+    "district": "",
+    "category": ""
 }]
