@@ -622,4 +622,12 @@
     "neighborhood": "Madrona",
     "district": "",
     "category": ""
+}, {
+    "name": "News of Madison Valley",
+    "slug": "news-madison-valley",
+    "url": "http://madisonvalley.org",
+    "feed": "http://madisonvalley.org/feed.xml",
+    "neighborhood": "Madison Valley",
+    "district": "",
+    "category": ""
 }]
