@@ -630,4 +630,12 @@
     "neighborhood": "Madison Valley",
     "district": "",
     "category": ""
+}, {
+    "name": "Africatown",
+    "slug": "africatown",
+    "url": "http://www.africatownseattle.org/",
+    "feed": "http://www.africatownseattle.org/feed/",
+    "neighborhood": "Central District",
+    "district": "",
+    "category": ""
 }]
