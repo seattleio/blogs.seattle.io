@@ -6,10 +6,5 @@ The blogs list is available as JSON: https://app.flatsheet.io/api/v1/sheets/bbn6
 
 This project uses [flatsheet.io](http://flatsheet.io), a service/open-source project that provides an editor & API for curated datasets.
 
-## Next steps:
-- Start aggregating posts from the blogs.
-- Allow filtering by neighborhood or topic.
-- Integrate with other resources, like SeattleWiki.
-
 ## Sources:
 Seattle Online Communities Inventory dataset on data.seattle.gov and the internet.
