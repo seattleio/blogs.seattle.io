@@ -13,6 +13,19 @@ h3 {
   color: #999;
 }
 
+.share {
+  border-bottom: 1px solid #efefef;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+.share a {
+  background-color: #f2f2f1;
+  margin: 0px 4px;
+  padding: 5px 8px;
+  border-radius: 2px;
+}
+
 .blog a {
   display: block;
   padding: 0px 15px 5px 15px;
