@@ -14,9 +14,12 @@ h3 {
 }
 
 .share {
-  margin-top: 10px;
-  margin-bottom: 20px;
+  margin: 20px 0px;
   padding-bottom: 5px;
+}
+
+.share h4 {
+  margin-bottom: 8px;
 }
 
 .share a {
