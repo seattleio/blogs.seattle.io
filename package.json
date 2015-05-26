@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "flatsheet": "^0.1.7",
+    "flatsheet-api-client": "git://github.com/flatsheet/flatsheet-api-client.git",
     "lodash.template": "^2.4.1"
   },
   "devDependencies": {
